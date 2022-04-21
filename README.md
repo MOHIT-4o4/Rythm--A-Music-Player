@@ -24,4 +24,4 @@ JWT_SECRET=some_super_secret_value
 ```
 ## Configure Setting in Spotify Developer
 
-![Screenshot 2022-04-21 223718](https://user-images.githubusercontent.com/72023877/164514225-dd5583f0-28b9-46cc-909d-525044135578.png)
+![Screenshot 2022-04-21 224110](https://user-images.githubusercontent.com/72023877/164514500-f9c2f756-e0af-43cb-b346-535ba25dac4a.png)
